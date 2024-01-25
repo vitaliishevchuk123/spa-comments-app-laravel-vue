@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "sheva/spa-comments",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "SPA comments laravel vue",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
