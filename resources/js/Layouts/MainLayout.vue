@@ -4,7 +4,7 @@ import Footer from "./Footer.vue";
 </script>
 
 <template>
-    <div class="main-wrapper min-h-screen bg-gray-100">
+    <div class="main-wrapper min-h-screen mx-auto">
         <Header/>
         <!-- Page Content -->
         <main>

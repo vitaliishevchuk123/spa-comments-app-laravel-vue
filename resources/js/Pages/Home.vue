@@ -1,10 +1,7 @@
-<script setup>
-import ContentWrapper from "../Components/ContentWrapper.vue";</script>
+<script setup></script>
 
 <template>
-    <ContentWrapper class="mt-6">
-        Home
-    </ContentWrapper>
+        Home page text
 </template>
 
 
