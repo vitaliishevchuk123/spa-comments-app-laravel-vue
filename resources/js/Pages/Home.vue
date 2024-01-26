@@ -1,15 +1,10 @@
 <script setup>
-import ContentWrapper from "../Components/ContentWrapper.vue";
-import MainLayout from "../Layouts/MainLayout.vue";
-
-</script>
+import ContentWrapper from "../Components/ContentWrapper.vue";</script>
 
 <template>
-    <MainLayout>
-        <ContentWrapper class="mt-6">
-            Home
-        </ContentWrapper>
-    </MainLayout>
+    <ContentWrapper class="mt-6">
+        Home
+    </ContentWrapper>
 </template>
 
 

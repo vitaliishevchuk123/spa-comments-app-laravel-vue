@@ -6,7 +6,6 @@ import Footer from "./Footer.vue";
 <template>
     <div class="main-wrapper min-h-screen bg-gray-100">
         <Header/>
-
         <!-- Page Content -->
         <main>
             <router-view></router-view>
