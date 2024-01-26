@@ -9,6 +9,7 @@ import Footer from "./Footer.vue";
 
         <!-- Page Content -->
         <main>
+            <router-view></router-view>
             <slot/>
         </main>
         <Footer/>
