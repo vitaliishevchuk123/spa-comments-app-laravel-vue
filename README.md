@@ -3,7 +3,7 @@
 SPA
 </span>
 <span style="border-top-right-radius: 5px; border-bottom-right-radius: 5px; background-color: white; font-size: 40px; width: 100px; padding-left: 10px; padding-right: 10px; color: black">
-Laravel Vue comments
+Forum (Laravel + Vue 3)
 </span>
 </div>
 
