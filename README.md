@@ -15,4 +15,4 @@ Forum (Laravel + Vue 3)
 ```
 
 ## <h2 style="color:#ba363f">About framework</h2>
-Coll project
+Coll project SPA
